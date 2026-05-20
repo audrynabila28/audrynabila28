@@ -1,16 +1,90 @@
-## Hi there 👋
+# Halo semuanya! Saya Audry Nabila 👋
+<!-- Tagline Utama -->
+### Backend Engineer | Data Analyst Enthusiast
 
-<!--
-**audrynabila28/audrynabila28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-brightgreen?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data-blueviolet?style=flat-square" alt="Fokus">
+  <img src="https://img.shields.io/badge/Location-Jakarta,%20Indonesia-blue?style=flat-square" alt="Lokasi">
+</p>
 
-Here are some ideas to get you started:
+Saya adalah mahasiswa Teknik Informatika / Sistem Informasi yang berfokus pada **rekayasa sisi backend** dan **analisis data**. Saya bersemangat membangun layanan web yang terstruktur, aman, dan dapat diskalakan, serta menggunakan pemrosesan data untuk menemukan solusi praktis terhadap tantangan operasional bisnis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Keahlian & Teknologi (Tech Stack)
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>⚙️ Backend & Database</h4>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="ExpressJS">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/Sequelize_ORM-52B0E7?style=flat-square&logo=sequelize&logoColor=white" alt="Sequelize">
+      <br><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+    </td>
+    <td valign="top" width="50%">
+      <h4>📊 Data Analysis & Science</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+      <br><br>
+      <img src="https://img.shields.io/badge/Analisis-EDA-orange?style=flat-square" alt="EDA">
+      <img src="https://img.shields.io/badge/Proses-Data%20Wrangling-blue?style=flat-square" alt="Wrangling">
+      <img src="https://img.shields.io/badge/Visualisasi-Matplotlib%20%2F%20Seaborn-blueviolet?style=flat-square" alt="Visualisasi">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Proyek Pilihan (Featured Projects)
+
+#### 💅 1. [Humaira Salon & Wedding - Reservasi Full-Stack](https://github.com/audrynabila28/humaira-salon-booking-system)
+*   **Peran**: Backend & Security Engineer *(Proyek Nyata / Kerja Praktek)*
+*   **Tech Stack**: Node.js, Express.js, Sequelize ORM, SQLite/PostgreSQL (Neon.tech), Vercel.
+*   **Sorotan Keamanan & Fitur**:
+    *   Mencegah kecurangan manipulasi harga transaksi sisi klien dengan kalkulasi total biaya langsung di database server.
+    *   Mengamankan otorisasi hak akses (Admin vs Pelanggan) menggunakan **JSON Web Token (JWT)**.
+    *   Integrasi otomatis **WhatsApp Gateway API** secara asinkron dari server untuk notifikasi reservasi instan ke pelanggan.
+    *   Penerapan database aman serta pemisahan folder log terlindungi.
+
+#### 📝 2. Asahlagi - AI Quiz Generator (Quality Optimization)
+*   **Peran**: Quality Lead (NLP & ML) *(Capstone Project)*
+*   **Tech Stack**: Python, NLP (Natural Language Processing), API Services, Hugging Face Spaces.
+*   **Sorotan Tugas & Kontribusi**:
+    *   **Optimasi Distraktor**: Mengembangkan logika distraktor kuis berbasis kesamaan kelas kata (same-POS), panjang kata (length-similar), dan kedekatan semantik kata (*word embeddings*).
+    *   **Peningkatan Ekstraktor**: Menyempurnakan modul ekstraksi teks dari PDF multikolom/tabel serta halaman web bersistem JS-rendered SPA / paywalls.
+    *   **Deduplikasi Soal**: Mencegah pengulangan kuis dengan menerapkan filter *similarity check* berbasis kedekatan kalimat.
+    *   **Quality Testing**: Merancang pengujian kuis dengan cakupan materi sains, sosial, sastra, dan teknologi untuk akurasi data NLP.
+
+#### 📈 3. Analisis Data Eksploratif (EDA) - Dataset Superstore
+*   **Peran**: Data Analyst
+*   **Tech Stack**: Python, Pandas, NumPy, Matplotlib, Seaborn.
+*   **Deskripsi**: Melakukan studi kasus komprehensif pada data ritel global. Membersihkan nilai kosong (*missing values*), mendeteksi anomali (*outliers*), dan menemukan insights penting mengenai pengaruh pemberian diskon terhadap keuntungan bersih perusahaan.
+
+---
+
+### 📈 Statistik Kontribusi GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=audrynabila28&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub Audry" height="190">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audrynabila28&layout=compact&theme=tokyonight&langs_count=6" alt="Bahasa Terpopuler Audry" height="190">
+</p>
+
+---
+
+### ✉️ Hubungkan dengan Saya
+*   **WhatsApp**: [Kirim Pesan WhatsApp](https://wa.me/6289646946880) 💬
+*   **Email**: `lenihumaira15@gmail.com` 📧
+*   **Website Portofolio**: [audrynabila28.github.io](https://audrynabila28.github.io) 🌐
+
+---
+*Lencana dan statistik di atas diperbarui secara otomatis setiap kali Anda berkontribusi pada repositori GitHub Anda.*
