@@ -84,20 +84,9 @@ Saya adalah mahasiswa Teknik Informatika yang berfokus pada ***fullstack web dev
 
 ---
 
-### 📈 Statistik Kontribusi GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=audrynabila28&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub Audry" height="190">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audrynabila28&layout=compact&theme=tokyonight&langs_count=6" alt="Bahasa Terpopuler Audry" height="190">
-</p>
-
----
-
 ### ✉️ Hubungkan dengan Saya
 *   **WhatsApp**: [Kirim Pesan WhatsApp](https://wa.me/6289695858900) 💬
 *   **Email**: `audrynabila80@gmail.com` 📧
 *   **Website Portofolio**: [audrynabila28.github.io](https://audrynabila28.github.io) 🌐
 
 ---
-*Lencana dan statistik di atas diperbarui secara otomatis setiap kali Anda berkontribusi pada repositori GitHub Anda.*
