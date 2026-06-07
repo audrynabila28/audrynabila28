@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td width="60%">
-        <h1>🚀 Hi, I'm Audry Nabila Anastasya 👋</h1>
+        <h1>Hi, I'm Audry Nabila Anastasya 👋</h1>
         <h3>Data Explorer | Turning Questions into Insights, Ideas into Reality</h3>
         <p>I'm an Informatics Engineering student who really enjoys digging into data, finding patterns, and turning them into real insights. I also love building web apps on the side — fullstack stuff. Basically, I'm always experimenting, breaking things, learning, and creating something new. Let's just say I'm curious by nature and driven by impact.</p>
       </td>
