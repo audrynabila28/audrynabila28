@@ -7,7 +7,7 @@
         <p>I'm an Informatics Engineering student who really enjoys digging into data, finding patterns, and turning them into real insights. I also love building web apps on the side — fullstack stuff. Basically, I'm always experimenting, breaking things, learning, and creating something new. Let's just say I'm curious by nature and driven by impact.</p>
       </td>
       <td width="40%" align="center">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVidDJ1eGptOW4weGVrdW1zNnV4NjQ1MGZjeDE4YjZqMmtmaW9xcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WqAiJT9IBhCuVuLPkb/giphy.gif" width="280" style="border-radius:12px;" alt="Coding GIF">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY215b3FjcGh5aGxqY2I1MTl2amk3aWViOGt3bTZ0d3psMm1rNW14MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTk9ZGZc51feh9BqX6/giphy.gif" width="280" style="border-radius:12px;" alt="Animated GIF">
       </td>
     </tr>
   </table>
