@@ -4,7 +4,7 @@
       <td width="60%">
         <h1>Hi, I'm Audry Nabila Anastasya 👋</h1>
         <h3>Data Explorer | Turning Questions into Insights, Ideas into Reality</h3>
-        <p>I'm an Informatics Engineering student who really enjoys digging into data, finding patterns, and turning them into real insights. I also love building web apps on the side — fullstack stuff. Basically, I'm always experimenting, breaking things, learning, and creating something new. Let's just say I'm curious by nature and driven by impact.</p>
+        <p>I'm an Informatics Engineering student who enjoys working with data and building web applications. I like exploring data, finding useful patterns, and turning ideas into something that actually works. I'm always learning, experimenting, and trying to build better things along the way.</p>
       </td>
       <td width="40%" align="center">
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY215b3FjcGh5aGxqY2I1MTl2amk3aWViOGt3bTZ0d3psMm1rNW14MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTk9ZGZc51feh9BqX6/giphy.gif" width="280" style="border-radius:12px;" alt="Animated GIF">
@@ -17,12 +17,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
